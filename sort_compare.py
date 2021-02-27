@@ -31,7 +31,7 @@ def insertion_sort(a_list):
             
         a_list[position] = current_value
         
-print("After increments of size", sublist_count, "The list is",a_list)
+
 
 
 # In[55]:
